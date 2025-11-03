@@ -1,8 +1,4 @@
----
-title: "Hello world"
-author: "Dino Grgić"
-date: "30. listopada 2025."
----
+
 # hello-world
 Moj prvi repozitorij
 
